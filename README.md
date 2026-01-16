@@ -30,6 +30,16 @@ This workbook emphasizes **thinking in Python**, not memorizing syntax.
 > Markdown files provide readable previews and sample questions.
 
 ---
+## 🚀 Release Information
+
+### v1.0 – Venom Edition (Initial Public Release)
+
+- First complete public release of the workbook
+- Covers Python fundamentals to professional-level challenges
+- Designed for interview preparation and real-world problem solving
+- Includes official PDF and GitHub-readable section previews
+
+---
 
 ## 📘 About the Workbook
 
@@ -55,23 +65,23 @@ and **solution guidelines** focused on clarity and reasoning.
 
 ---
 
-## 📂 Repository Contents
+### 📂 Repository Contents
 
-```
+| Path / File | Description |
+|------------|------------|
+| `README.md` | Main documentation describing the workbook, usage, releases, and fair use |
+| `CHANGELOG.md` | Short version history and release tracking |
+| `DISCLAIMER.md` | Legal disclaimer and limitation of liability |
+| `LICENSE.md` | License and intellectual property rights |
+| `Comprehensive_Python_Practice_Workbook_Venom.pdf` | Official, authoritative PDF workbook |
+| `sections/` | Markdown previews and sample questions for each section |
+| `sections/section-1-python-basics.md` | Python fundamentals preview |
+| `sections/section-2-object-oriented-programming.md` | Object-Oriented Programming preview |
+| `sections/section-3-advanced-python.md` | Advanced Python concepts preview |
+| `sections/section-4-professional-python-challenges.md` | Professional and interview-grade challenges preview |
+| `assets/` | Static assets used in documentation |
+| `assets/venom-python-banner.png` | Repository banner image |
 
-.
-├── README.md
-├── Comprehensive_Python_Practice_Workbook_Venom.pdf
-├── sections/
-│   ├── section-1-python-basics.md
-│   ├── section-2-object-oriented-programming.md
-│   ├── section-3-advanced-python.md
-│   └── section-4-professional-python-challenges.md
-├── assets/
-│   └── venom-python-banner.png
-└── LICENSE.md
-
-```
 
 ---
 
