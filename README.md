@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 <p align="center">
   <img src="assets/venom-python-banner.png" alt="Comprehensive Python Practice Workbook – Venom Edition" width="100%">
@@ -13,32 +14,36 @@
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg" />
 </p>
 
-A professionally curated Python workbook designed to build **practical problem-solving skills** from fundamentals to advanced, real-world challenges.
+A professionally curated Python workbook designed to build **practical problem-solving skills**
+from fundamentals to advanced, real-world challenges.
 
 This workbook focuses on **thinking in Python**, not memorizing syntax.  
 It is suitable for **students, interview candidates, backend developers, and serious self-learners**.
 
-📄 **Published File:**  
+---
+
 ## 📄 Download the Workbook (PDF)
 
-👉 [Download Comprehensive Python Practice Workbook – Venom Edition](Comprehensive_Python_Practice_Workbook_Venom.pdf)
+👉 **[Comprehensive Python Practice Workbook – Venom Edition](Comprehensive_Python_Practice_Workbook_Venom.pdf)**
 
+> The PDF is the **authoritative and complete version** of the workbook.  
+> Markdown files in this repository provide structured previews and sample questions.
 
 ---
 
 ## 📘 About the Workbook
 
-**Python Practice Workbook – Venom Edition** is a structured collection of **50+ carefully designed Python problems** covering:
+**Python Practice Workbook – Venom Edition** is a structured collection of **50+ professionally designed Python problems** covering:
 
 - Core Python fundamentals  
 - Object-Oriented Programming  
-- Advanced Python constructs  
+- Advanced Python concepts  
 - Professional, interview-grade challenges  
 
 Each problem includes:
-- Clear **difficulty level**
+- A clear **difficulty level**
 - **Real-world context tags** (Interview / Backend / Data / Scripting)
-- **Solution guidelines** focused on logic and clean design
+- **Solution guidelines** focused on reasoning and clean design
 
 This workbook is built to develop **clarity, discipline, and confidence**, not shortcuts.
 
@@ -58,7 +63,27 @@ Exception handling, functional programming, comprehensions, lambdas, generators,
 ### 🔹 Section 4: Professional Python Challenges  
 Concurrency, async programming, databases, APIs, testing, logging, serialization, design patterns, and optimization.
 
-An **Appendix** provides learning paths, interview focus areas, and best practices.
+📎 An **Appendix** provides learning paths, interview focus areas, and best practices.
+
+---
+
+## 📂 Repository Contents
+
+```
+
+.
+├── README.md
+├── Comprehensive_Python_Practice_Workbook_Venom.pdf
+├── sections/
+│   ├── section-1-python-basics.md
+│   ├── section-2-object-oriented-programming.md
+│   ├── section-3-advanced-python.md
+│   └── section-4-professional-python-challenges.md
+├── assets/
+│   └── venom-python-banner.png
+└── LICENSE.md
+
+```
 
 ---
 
@@ -76,17 +101,17 @@ An **Appendix** provides learning paths, interview focus areas, and best practic
 
 © 2026 **Shivansh Yadav**. All rights reserved.
 
-This workbook is the **intellectual property of the author**.
+This repository and its contents are the **intellectual property of the author**.
 
 ### You MAY:
 - Use this material for **personal learning**
 - Use it for **academic purposes**
-- Reference it for **skill development**
+- Reference it for **non-commercial skill development**
 
 ### You MAY NOT:
 - Redistribute or resell the workbook
-- Modify and publish it as your own work
-- Use it for commercial training without permission
+- Modify and republish the content
+- Use the material for commercial training without permission
 
 Any commercial use requires **prior written consent from the author**.
 
@@ -113,3 +138,7 @@ Refactor without ego.
 > **“Code is not about typing fast.  
 > It’s about thinking clearly and building things that last.”**  
 > — *Shivansh Yadav*
+
+---
+
+
