@@ -24,10 +24,14 @@ It is suitable for **students, interview candidates, backend developers, and ser
 
 ## 📄 Download the Workbook (PDF)
 
-👉 **[Comprehensive Python Practice Workbook – Venom Edition](Comprehensive_Python_Practice_Workbook_Venom.pdf)**
+👉 **[Comprehensive Python Practice Workbook – Venom Edition](Comprehensive_Python_Practice_Workbook_Venom.pdf)** 
+
+📦 **[Download via GitHub Releases](https://github.com/Venom-Shivu/Comprehensive-Python-Practice-Workbook-Venom/releases)**
+
 
 > The PDF is the **authoritative and complete version** of the workbook.  
 > Markdown files in this repository provide structured previews and sample questions.
+
 
 ---
 
