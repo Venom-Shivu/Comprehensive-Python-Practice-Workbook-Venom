@@ -19,7 +19,10 @@ This workbook focuses on **thinking in Python**, not memorizing syntax.
 It is suitable for **students, interview candidates, backend developers, and serious self-learners**.
 
 📄 **Published File:**  
-`Comprehensive_Python_Practice_Workbook_Venom.pdf`
+## 📄 Download the Workbook (PDF)
+
+👉 [Download Comprehensive Python Practice Workbook – Venom Edition](.Comprehensive_Python_Practice_Workbook_Venom.pdf)
+
 
 ---
 
@@ -87,14 +90,6 @@ This workbook is the **intellectual property of the author**.
 
 Any commercial use requires **prior written consent from the author**.
 
----
-
-## 🐍 Trademark Notice
-
-**Python®** is a registered trademark of the **Python Software Foundation**.  
-This project is **not affiliated with or endorsed by** the Python Software Foundation.
-
----
 
 ## 👤 Author
 
