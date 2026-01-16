@@ -21,7 +21,7 @@ It is suitable for **students, interview candidates, backend developers, and ser
 📄 **Published File:**  
 ## 📄 Download the Workbook (PDF)
 
-👉 [Download Comprehensive Python Practice Workbook – Venom Edition](.Comprehensive_Python_Practice_Workbook_Venom.pdf)
+👉 [Download Comprehensive Python Practice Workbook – Venom Edition](Comprehensive_Python_Practice_Workbook_Venom.pdf)
 
 
 ---
